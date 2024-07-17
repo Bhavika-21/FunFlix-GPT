@@ -1,30 +1,21 @@
 # FunFlix-GPT
-- create-react-app
-- configure Tailwind
-
-
-
-
+- Configuring our app with CRA
+- Configure Tailwind
 
 # Features
 
-- Login/signup page 
-   -Singin/signup form
-   - redirect to browse page
+- Signup/SignIn 
+  - signIn/SignUp Form
+    - Redirect to browse page
 
-- Browse (comes after auth)
-   -Header
+- Browse Page (After Auth)
+   - Header
    - Main Movie
-     -Trailer in the background
-     - Movie title and description and play button
-     - MovieSuggestion
-     - Movies * n 
+   - Trailer in Background
+   - Movie Title & Description
+   - Movieies Suggestion
+     - Movies List
 
-- NerFlix-GPT
-  - Search bar
-  - Movie Suggestions
-
-
-  git remote add origin https://github.com/Bhavika-21/FunFlix-GPT.git
-git branch -M main
-git push -u origin main
+- FunFlix-GPT
+  - Search Bar
+  - Movies Suggestions List
